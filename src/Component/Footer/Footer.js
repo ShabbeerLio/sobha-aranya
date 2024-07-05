@@ -67,16 +67,16 @@ const Footer = (props) => {
                                 <a href="/" onClick={toTop}>Home</a>
                             </li>
                             <li>
-                                <a href="/about" onClick={toTop}>About</a>
-                            </li>
-                            <li>
                                 <a href="/gallery" onClick={toTop}>Gallery</a>
                             </li>
                             <li>
-                                <a href="/highlights" onClick={toTop}>Highlights</a>
+                                <a href="/price-list" onClick={toTop}>Price List</a>
                             </li>
                             <li>
-                                <a href="/plans" onClick={toTop}>Plans</a>
+                                <a href="/master-plan" onClick={toTop}>Master Plans</a>
+                            </li>
+                            <li>
+                                <a href="/floor-plans" onClick={toTop}>Floor Plans</a>
                             </li>
                             <li>
                                 <a href="/location" onClick={toTop}>Location</a>
