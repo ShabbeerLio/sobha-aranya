@@ -48,27 +48,27 @@ const Overview = () => {
                                 responsive={responsiveOptions}
                             >
                                 <div className="category-card">
-                                    <img src={gmy} alt="Godrej Ashok Vihar Delhi" />
+                                    <img src={gmy} alt="Sobha Aranya " />
                                     <p>Gym</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={Swimming} alt="Godrej Ashok Vihar" />
+                                    <img src={Swimming} alt="Sobha Aranya" />
                                     <p>Swimming Pool</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={banhall} alt="Godrej Ashok Vihar Delhi price" />
+                                    <img src={banhall} alt="Sobha Aranya  price" />
                                     <p>multipurpose Hall</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={Basketball} alt="Godrej Ashok Vihar Delhi Expressway" />
+                                    <img src={Basketball} alt="Sobha Aranya  Expressway" />
                                     <p>Basketball Court</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={spot} alt="Godrej Ashok Vihar Delhi Plans" />
+                                    <img src={spot} alt="Sobha Aranya  Plans" />
                                     <p>Jogging Track</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={Play} alt="Godrej Ashok Vihar Delhi Plans" />
+                                    <img src={Play} alt="Sobha Aranya  Plans" />
                                     <p>Kid's Play</p>
                                 </div>
                             </ReactOwlCarousel>
