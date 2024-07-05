@@ -1,0 +1,19 @@
+.form button {
+  width: 100%;
+  background-color: #fedb73;
+  border: none;
+  transition: .2s ease-in-out;
+  padding: 15px 0px;
+  color: black;
+}
+.form button:hover {
+  background-color: #ffb000;
+  color: black;
+}
+.form .form-control {
+  font-size: 13px;
+}
+.form textarea {
+  min-height: 120px;
+  resize: vertical;
+}

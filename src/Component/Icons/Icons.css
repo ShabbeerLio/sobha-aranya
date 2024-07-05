@@ -1,0 +1,55 @@
+.Icons {
+  padding: 6rem 0rem;
+  width: 100%;
+  background-color: black;
+}
+
+.Icons-main {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.icons-box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  text-align: center;
+}
+
+.icon-card {
+  background-color: #fedb73;
+  border-radius: 8px;
+  padding: 2rem;
+}
+.icon-card img {
+  width: 50%;
+  object-fit: cover;
+}
+.icon-card p {
+  color: black;
+  margin: 0;
+  padding-top: 1rem;
+}
+
+@media (min-width: 1200px) {
+  .Icons-main {
+    max-width: 1140px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .icons-box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+
+  .icon-card img {
+    width: 50%;
+    object-fit: cover;
+  }
+}
