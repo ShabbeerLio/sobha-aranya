@@ -59,7 +59,7 @@ const SiteVisit = (props) => {
         <div className='SiteVisit'>
             <div className='SiteVisit-main'>
                 <div className="Page-title">
-                    <h1>Intrested in Godrej Ashok Vihar</h1>
+                    <h1>Intrested in Sobha Aranya</h1>
                 </div>
                 <div className="sitevisit-box">
                     <div className="sitevisit-item">
