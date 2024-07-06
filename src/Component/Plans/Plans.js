@@ -8,6 +8,7 @@ const Plans = () => {
     const formIsOpen = () => {
         setFormopen(!formopen);
     };
+    console.log(formIsOpen)
 
     const formIsClose = () => {
         setFormopen(false);
